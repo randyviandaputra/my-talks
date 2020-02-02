@@ -5,13 +5,11 @@ Hi, I'm **Randy Vianda Putra**
 + Instructor at [Sekolah Frontend](https://sekolahfrontend.com/)
 + Researcher at [evilfactorylabs](https://evilfactorylabs.org/) 
 
-I'm Open Sourcerer, Frontend Enthusiast & Technology Eater.
+I'm Open Sourcerer, Frontend Enthusiast & Technology Eater. My passionate is about Javascript, Go, GraphQL, React, React Native, VueJS and many more.
 
-My passionate is about Javascript, Go, GraphQL, React, React Native, VueJS and many more.
+My Complete CV in Linkedin : [https://www.linkedin.com/in/randyviandaputra/](https://www.linkedin.com/in/randyviandaputra/)
 
-My complete CV in Linkedin : [https://www.linkedin.com/in/randyviandaputra/](https://www.linkedin.com/in/randyviandaputra/)
-
-## List of all talks :
+## List of talks :
 
 ### 2019
 + **Developer Camp - Dilo x Cilsy** - [Membangun Aplikasi Modern Dengan React & NodeJS](http://dilo.id/Event/Detail/548)
@@ -20,3 +18,11 @@ My complete CV in Linkedin : [https://www.linkedin.com/in/randyviandaputra/](htt
 + **Developer Talk From TechinLabs** - [Introduction to React](https://speakerdeck.com/randyviandaputra/introduction-to-react)
 + **Developer Half Day** - [Introduction to Micro Frontends](https://speakerdeck.com/randyviandaputra/micro-frontend)
 + **Developer Half Day** - [Build First Mobile App With React Native](https://speakerdeck.com/randyviandaputra/react-native-training)
+
+### If you interest invite me to speak at your event, feel free to contact me : 
+
++ **Email** : [modulloe@gmail.com](mailto:modulloe@gmail.com)
++ **Telegram** : [@randyvp](https://t.me/randyvp)
++ **Twitter** : [@aweutist](https://twitter.com/aweutist)
++ **Facebook**: [@aweutist](https://www.facebook.com/aweutist)
++ **Instagram**: [@randy.vp](https://www.instagram.com/randy.vp/)
