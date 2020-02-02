@@ -11,3 +11,12 @@ My passionate is about Javascript, Go, GraphQL, React, React Native, VueJS and m
 
 My complete CV in Linkedin : [https://www.linkedin.com/in/randyviandaputra/](https://www.linkedin.com/in/randyviandaputra/)
 
+## List of all talks :
+
+### 2019
++ **Developer Camp - Dilo x Cilsy** - [Membangun Aplikasi Modern Dengan React & NodeJS](http://dilo.id/Event/Detail/548)
++ **Code Is Fun** - [Introduction to Full Stack Javascript](https://drive.google.com/file/d/11fzwbXNZKvww3GGOvRnv3ZJh_9g1STvR/view?usp=sharing)
++ **Facebook Developer Circles (Bandung)** - [Introduction to React360](https://speakerdeck.com/randyviandaputra/intro-to-react-360)
++ **Developer Talk From TechinLabs** - [Introduction to React](https://speakerdeck.com/randyviandaputra/introduction-to-react)
++ **Developer Half Day** - [Introduction to Micro Frontends](https://speakerdeck.com/randyviandaputra/micro-frontend)
++ **Developer Half Day** - [Build First Mobile App With React Native](https://speakerdeck.com/randyviandaputra/react-native-training)
