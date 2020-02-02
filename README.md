@@ -9,7 +9,7 @@ I'm Open Sourcerer, Frontend Enthusiast & Technology Eater. My passionate is abo
 
 My Complete CV in Linkedin : [https://www.linkedin.com/in/randyviandaputra/](https://www.linkedin.com/in/randyviandaputra/)
 
-### **Topics**: Frontend, PWA, React, JavaScript, Flutter, Go, PHP, Laravel, Community, Management
+## **Topics**: Frontend, PWA, React, JavaScript, Flutter, Go, PHP, Laravel, Community, Management
 
 ## List of talks :
 
