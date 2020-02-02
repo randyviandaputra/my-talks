@@ -7,6 +7,8 @@ Hi, I'm **Randy Vianda Putra**
 
 I'm Open Sourcerer, Frontend Enthusiast & Technology Eater. My passionate is about Javascript, Go, GraphQL, React, React Native, VueJS and many more.
 
+### **Topics**: Frontend, PWA, React, JavaScript, Flutter, Go, PHP, Laravel, Community, Management
+
 My Complete CV in Linkedin : [https://www.linkedin.com/in/randyviandaputra/](https://www.linkedin.com/in/randyviandaputra/)
 
 ## List of talks :
