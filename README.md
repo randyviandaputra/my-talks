@@ -9,8 +9,6 @@ I'm Open Sourcerer, Frontend Enthusiast & Technology Eater. My passionate is abo
 
 My Complete CV in Linkedin : [https://www.linkedin.com/in/randyviandaputra/](https://www.linkedin.com/in/randyviandaputra/)
 
-## **Topics**: Frontend, PWA, React, JavaScript, Flutter, Go, PHP, Laravel, Community, Management
-
 ## List of talks :
 
 ### 2019
@@ -20,6 +18,8 @@ My Complete CV in Linkedin : [https://www.linkedin.com/in/randyviandaputra/](htt
 + **Developer Talk From TechinLabs** - [Introduction to React](https://speakerdeck.com/randyviandaputra/introduction-to-react)
 + **Developer Half Day** - [Introduction to Micro Frontends](https://speakerdeck.com/randyviandaputra/micro-frontend)
 + **Developer Half Day** - [Build First Mobile App With React Native](https://speakerdeck.com/randyviandaputra/react-native-training)
+
+### **Topics**: Frontend, PWA, React, JavaScript, Flutter, Go, PHP, Laravel, Community, Management
 
 ### If you interest invite me to speak at your event, feel free to contact me : 
 
