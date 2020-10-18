@@ -11,6 +11,9 @@ My Complete CV in Linkedin : [https://www.linkedin.com/in/randyviandaputra/](htt
 
 ## List of talks :
 
+### 2020
++ **Berkarir Sebagai Frontend Developer** - [Berkarir Sebagai Frontend Developer](https://speakerdeck.com/randyviandaputra/berkarir-sebagai-frontend-developer)
+
 ### 2019
 + **Developer Camp - Dilo x Cilsy** - [Membangun Aplikasi Modern Dengan React & NodeJS](http://dilo.id/Event/Detail/548)
 + **Code Is Fun Meetup** - [Introduction to Full Stack Javascript](https://drive.google.com/file/d/11fzwbXNZKvww3GGOvRnv3ZJh_9g1STvR/view?usp=sharing)
