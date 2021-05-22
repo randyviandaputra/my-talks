@@ -1,8 +1,6 @@
 # My Talks
 Hi, I'm **Randy Vianda Putra**
 
-+ Lead Frontend Engineer at [WorkLife&Beyond](https://www.wlb.co.id/)
-+ Instructor at [Sekolah Frontend](https://sekolahfrontend.com/)
 + Researcher at [evilfactorylabs](https://evilfactorylabs.org/) 
 
 I'm Open Sourcerer, Frontend Enthusiast & Technology Eater. My passionate is about Javascript, Go, GraphQL, React, React Native, VueJS and many more.
@@ -11,7 +9,11 @@ My Complete CV in Linkedin : [https://www.linkedin.com/in/randyviandaputra/](htt
 
 ## List of talks :
 
+### 2021
++ **Step by Step Guide to Becoming Frontend Developer** - [Step by Step Guide to Becoming Frontend Developer](https://speakerdeck.com/randyviandaputra/step-by-step-guide-to-becoming-frontend-developer)
+
 ### 2020
++ **Build Mobile-Friendly Web Apps with Reactjs** - [Build Mobile-Friendly Web Apps with Reactjs](https://speakerdeck.com/randyviandaputra/build-mobile-friendly-web-apps-with-reactjs-dot-pptx)
 + **Berkarir Sebagai Frontend Developer** - [Berkarir Sebagai Frontend Developer](https://speakerdeck.com/randyviandaputra/berkarir-sebagai-frontend-developer)
 
 ### 2019
