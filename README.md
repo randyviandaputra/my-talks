@@ -1,6 +1,7 @@
 # My Talks
 Hi, I'm **Randy Vianda Putra**
 
++ Frontend Engineer at [Sampingan](https://sampingan.co.id/) 
 + Researcher at [evilfactorylabs](https://evilfactorylabs.org/) 
 
 I'm Open Sourcerer, Frontend Enthusiast & Technology Eater. My passionate is about Javascript, Go, GraphQL, React, React Native, VueJS and many more.
